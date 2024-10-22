@@ -7,7 +7,7 @@ Danh sách thành viên tham gia dự án
 | 2. | Phạm Hải Anh | |
 | 3. | Nguyễn Hà Nam | |
 | 4. | Trần Kim Thành | |
-| 5. | Lê Hoài Nam | |
+| 5. | Lê Hoài Nam | 030205003196|
 | 6. | Trịnh Bửu Châu | 089205015280 |
 
 # Template
