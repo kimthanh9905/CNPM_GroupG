@@ -8,6 +8,6 @@ Danh sách thành viên tham gia dự án
 | 3. | Nguyễn Hà Nam | |
 | 4. | Trần Kim Thành | |
 | 5. | Lê Hoài Nam | |
-| 6. | Trịnh Bửu Châu | |
+| 6. | Trịnh Bửu Châu | 089205015280 |
 
 # Template
