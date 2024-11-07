@@ -6,7 +6,7 @@ Danh sách thành viên tham gia dự án
 | 1. | Lương Thị Bích Hằng| 075305020765 |
 | 2. | Phạm Hải Anh | |
 | 3. | Nguyễn Hà Nam | 077205011397 |
-| 4. | Trần Kim Thành | |
+| 4. | Trần Kim Thành | 060205012266 |
 | 5. | Lê Hoài Nam | 030205003196|
 | 6. | Trịnh Bửu Châu | 089205015280 |
 
